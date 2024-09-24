@@ -21,3 +21,9 @@
 😊
 😼
 💋
+## Keyboard shortcuts
+Shortcuts I use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-Z (undo)
+- Ctrl-F (Find)
