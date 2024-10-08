@@ -27,3 +27,5 @@ Shortcuts I use:
 - Ctrl-V (paste)
 - Ctrl-Z (undo)
 - Ctrl-F (Find)
+
+[CLI command](docs/cli.md)
