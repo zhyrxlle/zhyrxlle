@@ -28,4 +28,4 @@ Shortcuts I use:
 - Ctrl-Z (undo)
 - Ctrl-F (Find)
 
-[CLI command](docs/cli.md)
+[CLI commands](docs/cli.md)
