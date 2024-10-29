@@ -1,0 +1,39 @@
+  },
+  {
+    "Sport": "Basketball",
+    "team": {
+      "name": "Raptors",
+      "city": "Toronto"
+    }
+  },
+  {
+    "name": "Lionel Messi"
+  },
+  {
+    "Sport": "Soccer",
+    "team": {
+      "name": "Inter Miami",
+      "city": "Miami"
+    }
+  },
+  {
+    "name": "Serena Williams"
+  },
+  {
+    "Sport": "Tennis",
+    "team": {
+      "name": "n/a",
+      "city": "n/a" // string
+    }
+  },
+  {
+    "name": "Tom Brady"
+  },
+  {
+    "Sport": "Football",
+    "team": {
+      "name": "Buccaneers",
+      "city": "Tampa Bay"
+    }
+  }
+]
